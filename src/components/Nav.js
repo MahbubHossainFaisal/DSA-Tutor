@@ -8,7 +8,7 @@ const Nav = () => {
       <ul>
         <li>
           <a href="index.html" className={classes.brand}>
-            <img src={logo} alt="Learn with Sumit Logo" />
+            <img src={logo} alt="DSA-logo" />
             <h2>DSA-Tutor</h2>
           </a>
         </li>
