@@ -1,6 +1,6 @@
 import React from 'react'
 import Video from './Video'
-import classes from '../styles/Videos.module.css'
+import classes from '../../styles/Videos.module.css'
 
 const Videos = () => {
     return (

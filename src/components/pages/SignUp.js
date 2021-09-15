@@ -1,10 +1,10 @@
 import React from 'react'
-import Illustration from '../Illustration'
-import Form from '../Form'
-import TextInput from '../inputFields/TextInput'
+import Illustration from '../ui/Illustration'
+import Form from '../Form/Form'
+import TextInput from '../Form/inputFields/TextInput'
 import classes from '../../styles/SignUp.module.css'
-import CheckBox from '../inputFields/CheckBox'
-import Button from '../Button'
+import CheckBox from '../Form/inputFields/CheckBox'
+import Button from '../Form/Button'
 
 const SignUp = () => {
     return (
@@ -22,7 +22,7 @@ const SignUp = () => {
                     text="I agree to the Terms &amp; Conditions"
                     />
                     <Button>
-                        Submit Now
+                       <span> Submit Now </span>
                     </Button>
 
                     <div className="info">

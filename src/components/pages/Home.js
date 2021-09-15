@@ -1,5 +1,5 @@
 import React from 'react'
-import Videos from '../Videos'
+import Videos from '../videos/Videos'
 
 const Home = () => {
     return (

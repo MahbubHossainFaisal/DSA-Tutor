@@ -1,6 +1,6 @@
 import React from 'react'
 import Nav from './Nav'
-import classes from '../styles/Layout.module.css'
+import classes from '../../styles/Layout.module.css'
 const Layout = ({children}) => {
     return (
         <React.Fragment>
