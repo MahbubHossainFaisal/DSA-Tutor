@@ -1,5 +1,6 @@
 import React from 'react'
 import Account from './Account'
+import {Link} from 'react-router-dom'
 import classes from '../../styles/Nav.module.css'
 import logo from '../../assets/images/logo-bg.png'
 const Nav = () => {
@@ -7,10 +8,10 @@ const Nav = () => {
        <nav className={classes.nav}>
       <ul>
         <li>
-          <a href="index.html" className={classes.brand}>
+          <Link to='/' className={classes.brand}>
             <img src={logo} alt="DSA-logo" />
             <h2>DSA-Tutor</h2>
-          </a>
+          </Link>
         </li>
       </ul>
       <Account />
