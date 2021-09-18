@@ -6,9 +6,11 @@ import SignUp from './pages/SignUp';
 import Quiz from './pages/Quiz';
 import Result from './pages/Result';
 import {Route, Switch} from 'react-router-dom'
+import {AuthProvider} from './contexts/AuthContext'
 function App() {
   return (
-    <Layout>
+    <AuthProvider>
+      <Layout>
       <Switch>
       <Route exact path='/' component={Home} />
       <Route exact path='/signup' component={SignUp} />
@@ -17,6 +19,7 @@ function App() {
       <Route exact path='/result' component={Result} />
       </Switch>
     </Layout>
+    </AuthProvider>
   );
 }
 
