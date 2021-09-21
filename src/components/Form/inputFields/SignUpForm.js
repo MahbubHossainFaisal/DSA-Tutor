@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
+import { Link, useHistory } from 'react-router-dom'
 import { useAuth } from '../../contexts/AuthContext'
-import {Link,useHistory } from 'react-router-dom'
 import Button from '../Button'
 import Form from '../Form'
 import CheckBox from './CheckBox'
@@ -60,6 +60,9 @@ const SignUpForm = () => {
                     <Button disabled={loading} type='submit'>
                        <span> Submit Now </span>
                     </Button>
+                    <div className="info">
+                    Already Have an account? <Link to="/login">Login</Link> instead.
+                    </div>
                         {error && <p className="error"> {error} </p>}
                     
         </Form>
