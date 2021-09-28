@@ -1,10 +1,11 @@
 import {useEffect, useState} from 'react'
-import {getDatabase,ref,query,orderByKey,get} from 'firebase/database'
-const UseVideoList = () => {
+import {getDatabase,ref,query,orderByKey,get,startAt, limitToFirst} from 'firebase/database'
+const UseVideoList = (page) => {
 
     const [loading,setLoading] = useState(true)
     const [error,setError] = useState(false)
     const [videos,setVideos] = useState([])
+    const [hasMore,setHasMore] = useState(true)
     useEffect(() => {
        //fetching data from database
         async function fetchVideos(){
@@ -13,7 +14,9 @@ const UseVideoList = () => {
             //query
             const videoQuery = query(
                 videosRef,
-                orderByKey()
+                orderByKey(),
+                startAt(""+page),
+                limitToFirst(8)
 
             )
 
@@ -31,6 +34,7 @@ const UseVideoList = () => {
             } )
            }else{
                 //
+                setHasMore(false)
            }
         }catch(err){
             console.log(err)
@@ -42,12 +46,13 @@ const UseVideoList = () => {
 
         
         fetchVideos()
-    }, [])
+    }, [page])
 
     return{
         loading,
         error,
         videos,
+        hasMore
     }
 }
 
