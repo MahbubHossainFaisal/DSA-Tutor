@@ -17,8 +17,8 @@ function App() {
       <Route exact path='/' component={Home} />
       <PublicRoute exact path='/signup' component={SignUp} />
       <PublicRoute exact path='/login' component={Login} />
-      <PrivateRoute exact path='/quiz' component={Quiz} />
-      <PrivateRoute exact path='/result' component={Result} />
+      <PrivateRoute exact path='/quiz/:id' component={Quiz} />
+      <PrivateRoute exact path='/result/:id' component={Result} />
       <Route path='/*'>
         <Redirect to='/' />
       </Route>
