@@ -100,7 +100,7 @@ const Quiz = () => {
                     <h4>Question can have multiple answers</h4>
                     <Answers input={true} options={qna[currentQuestion].options} handleChange={handleAnswerChange} />
                     <ProgressBar next={nextQuestion} prev={prevQuestion} progress={progress} submit={submitHandler} />
-                    <MiniPlayer />
+                    <MiniPlayer id={id} title={qna[currentQuestion].title} />
                 </React.Fragment>
             )}
         </React.Fragment>
