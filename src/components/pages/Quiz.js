@@ -35,6 +35,9 @@ const Quiz = () => {
     const [currentQuestion,setCurrentQuestion] = useState(0)
 
     const history = useHistory()
+
+    const {videoTitle} = history.location.state
+    
     //useReducer
     const [qna, dispatch]  = useReducer(reducer, initialState)
 
@@ -100,7 +103,7 @@ const Quiz = () => {
                     <h4>Question can have multiple answers</h4>
                     <Answers input={true} options={qna[currentQuestion].options} handleChange={handleAnswerChange} />
                     <ProgressBar next={nextQuestion} prev={prevQuestion} progress={progress} submit={submitHandler} />
-                    <MiniPlayer id={id} title={qna[currentQuestion].title} />
+                    <MiniPlayer id={id} title={videoTitle} />
                 </React.Fragment>
             )}
         </React.Fragment>
