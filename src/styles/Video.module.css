@@ -39,6 +39,33 @@
   font-weight: 400;
 }
 
+.buttonParent{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.button {
+  background: var(--successGreen);
+  color: var(--fontPrimary);
+  padding: 0.6rem 1.2rem;
+  font-weight: 600;
+  font-size: 10px;
+  text-transform: uppercase;
+  
+  border-radius: 8px;
+  cursor: pointer;
+  border: 0px;
+}
+
+.button:hover {
+  background: var(--fontPrimary);
+  color: #fff;
+}
+
+.button:hover span {
+  color: #fff;
+}
+
 @media only screen and (max-width: 600px) {
   .video {
     width: 100%;
