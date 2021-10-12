@@ -12,7 +12,7 @@ const Videos = () => {
         <div>
             {videos.length > 0 && 
             (<InfiniteScroll dataLength={videos.length}
-             hasMore={hasMore} loader={<h3>Loading...</h3>} next={()=>setPage(page+8)}>
+             hasMore={hasMore} loader={<h3>Loading...</h3>} next={()=>setPage(page+4)}>
             {
                 videos.map(video => 
                 video.noq > 0 ? (

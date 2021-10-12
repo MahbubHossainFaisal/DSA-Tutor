@@ -2,7 +2,6 @@ import React from 'react'
 import classes from '../../styles/Summary.module.css'
 import successImage from '../../assets/images/success.png'
 import useFetch from '../../hooks/useFetch'
-import { createClient } from 'pexels';
 const Summary = ({score,noq}) => {
 
 

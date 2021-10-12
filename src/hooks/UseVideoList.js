@@ -10,7 +10,7 @@ const UseVideoList = (page) => {
        //fetching data from database
         async function fetchVideos(){
             const db = getDatabase();
-            const videosRef = ref(db, "videos")
+            const videosRef = ref(db, "videos/linkedList")
             //query
             const videoQuery = query(
                 videosRef,
