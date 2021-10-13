@@ -260,6 +260,61 @@
         "youtubeID": "vvey2QCs98o",
         "title": "5.2 Binary Tree and its Types | Data Structures",
         "noq": 0
+      },
+      "51": {
+        "youtubeID": "6vt3PFRC11E",
+        "title": "5.3 Binary Tree Implementation | Data Structures",
+        "noq": 0
+      },
+      "52": {
+        "youtubeID": "zDlTxrEwxvg",
+        "title": "5.4 Binary Tree Representation |Array representation of binary tree | Data Structure",
+        "noq": 0
+      },
+      "53": {
+        "youtubeID": "-b2lciNd2L4",
+        "title": "5.5 Binary Tree Traversals (Inorder, Preorder and Postorder) | Data structures",
+        "noq": 0
+      },
+      "54": {
+        "youtubeID": "e_Wv_pH4Se8",
+        "title": "5.6 Binary Tree traversal : Preorder, Inorder, Postorder | Data Structures",
+        "noq": 0
+      },
+      "55": {
+        "youtubeID": "PoBGyrIWisE",
+        "title": "5.7 Construct Binary Tree from Preorder and Inorder traversal with example | Data structures",
+        "noq": 0
+      },
+      "56": {
+        "youtubeID": "s5XRtcud35E",
+        "title": "5.8 Construct Binary Tree from Postorder and Inorder with example | Data structures",
+        "noq": 0
+      },
+      "57": {
+        "youtubeID": "5lWJpTEnyow",
+        "title": "5.9 Construct Binary Tree from Preorder and Postorder traversal | Data structures",
+        "noq": 0
+      },
+      "58": {
+        "youtubeID": "cySVml6e_Fc",
+        "title": "5.10 Binary Search Trees (BST) - Insertion and Deletion Explained | Data structures",
+        "noq": 0
+      },
+      "59": {
+        "youtubeID": "GW63gMgfeS8",
+        "title": "5.11 Construct Binary Search Tree(BST) from Preorder( example) |Data structures",
+        "noq": 0
+      },
+      "60": {
+        "youtubeID": "RttBwUVWfV",
+        "title": "5.12 Construct a Binary Search Tree(BST) from given Postorder traversal | Data structures",
+        "noq": 0
+      },
+      "61": {
+        "youtubeID": "YWqla0UX-38",
+        "title": "5.7 Construct Binary Tree from Preorder and Inorder traversal with example | Data structures",
+        "noq": 0
       }
     }
   },
@@ -267,142 +322,532 @@
     "AT14lCXuMKI": {
       "questions": [
         {
-          "title": "How to declare JavaScript variables?",
+          "title": "Which of these best describes an array?",
           "options": [
             {
-              "title": "with var"
+              "title": "A data structure that shows a hierarchical behavior"
             },
             {
-              "title": "with let"
+              "title": "Container of objects of similar types"
             },
             {
-              "title": "with const"
+              "title": "Arrays are immutable once initialised"
             },
             {
-              "title": "with variable"
-            },
-            {
-              "title": "with declare"
-            },
-            {
-              "title": "with new"
-            },
-            {
-              "title": "with number"
-            },
-            {
-              "title": "with string"
-            },
-            {
-              "title": "with boolean"
-            },
-            {
-              "title": "with nothing"
+              "title": "Array is not a data structure"
             }
           ]
         },
         {
-          "title": "When was JavaScript invented?",
+          "title": "What are the advantages of arrays?",
           "options": [
             {
-              "title": "September 1998"
+              "title": "Objects of mixed data types can be stored"
             },
             {
-              "title": "October 1999"
+              "title": "Elements in an array cannot be sorted"
             },
             {
-              "title": "September 1995"
+              "title": "Easier to store elements of same data type"
             },
             {
-              "title": "September 1993"
-            },
-            {
-              "title": "August 1990"
-            },
-            {
-              "title": "January 1995"
-            },
-            {
-              "title": "with number"
-            },
-            {
-              "title": "December 1995"
-            },
-            {
-              "title": "March 1996"
-            },
-            {
-              "title": "January 1970"
+              "title": "Index of first element of an array is 1"
             }
           ]
         },
         {
-          "title": "Who or which company created JavaScript?",
+          "title": "What are the disadvantages of arrays?",
           "options": [
             {
-              "title": "Jordan Walke"
+              "title": "Data structure like queue or stack cannot be implemented"
             },
             {
-              "title": "Netscape"
+              "title": " There are chances of wastage of memory space if elements inserted in an array are lesser than the allocated size"
             },
             {
-              "title": "Jack Ma"
+              "title": "Index value of an array can be negative"
             },
             {
-              "title": "Nayok Razzaq"
-            },
-            {
-              "title": "Takla Rubel"
-            },
-            {
-              "title": "Tarzan"
-            },
-            {
-              "title": "Brendan Eich"
-            },
-            {
-              "title": "Mark Zuckerburg"
-            },
-            {
-              "title": "Bill Gates"
-            },
-            {
-              "title": "Steve Jobs"
+              "title": "Elements are sequentially accessed"
             }
           ]
         },
         {
-          "title": "What is the latest version of ECMAScript",
+          "title": "Elements in an array are accessed _____________",
           "options": [
             {
-              "title": "ES2020"
+              "title": "randomly"
             },
             {
-              "title": "ES2021"
+              "title": "sequentially"
             },
             {
-              "title": "ES6"
+              "title": "exponentially"
             },
             {
-              "title": "ES7"
+              "title": "logarithmically"
+            }
+          ]
+        },
+        {
+          "title": "Objects in a sequence that have the same type, is called",
+          "options": [
+            {
+              "title": "Arrays"
             },
             {
-              "title": "ES8"
+              "title": "Operators"
             },
             {
-              "title": "ES2022"
+              "title": "Functions"
             },
             {
-              "title": "ES21"
+              "title": "Stacks"
+            }
+          ]
+        }
+      ]
+    },
+    "Bnjbun-hiBk": {
+      "questions": [
+        {
+          "title": "Which of these best describes an array?",
+          "options": [
+            {
+              "title": "A data structure that shows a hierarchical behavior"
             },
             {
-              "title": "ES3"
+              "title": "Container of objects of similar types"
             },
             {
-              "title": "ES9"
+              "title": "Arrays are immutable once initialised"
             },
             {
-              "title": "ES2020"
+              "title": "Array is not a data structure"
+            }
+          ]
+        },
+        {
+          "title": "What are the advantages of arrays?",
+          "options": [
+            {
+              "title": "Objects of mixed data types can be stored"
+            },
+            {
+              "title": "Elements in an array cannot be sorted"
+            },
+            {
+              "title": "Easier to store elements of same data type"
+            },
+            {
+              "title": "Index of first element of an array is 1"
+            }
+          ]
+        },
+        {
+          "title": "What are the disadvantages of arrays?",
+          "options": [
+            {
+              "title": "Data structure like queue or stack cannot be implemented"
+            },
+            {
+              "title": " There are chances of wastage of memory space if elements inserted in an array are lesser than the allocated size"
+            },
+            {
+              "title": "Index value of an array can be negative"
+            },
+            {
+              "title": "Elements are sequentially accessed"
+            }
+          ]
+        },
+        {
+          "title": "Elements in an array are accessed _____________",
+          "options": [
+            {
+              "title": "randomly"
+            },
+            {
+              "title": "sequentially"
+            },
+            {
+              "title": "exponentially"
+            },
+            {
+              "title": "logarithmically"
+            }
+          ]
+        },
+        {
+          "title": "Objects in a sequence that have the same type, is called",
+          "options": [
+            {
+              "title": "Arrays"
+            },
+            {
+              "title": "Operators"
+            },
+            {
+              "title": "Functions"
+            },
+            {
+              "title": "Stacks"
+            }
+          ]
+        }
+      ]
+    },
+    "CMbpZK_xqoc": {
+      "questions": [
+        {
+          "title": "Which of these best describes an array?",
+          "options": [
+            {
+              "title": "A data structure that shows a hierarchical behavior"
+            },
+            {
+              "title": "Container of objects of similar types"
+            },
+            {
+              "title": "Arrays are immutable once initialised"
+            },
+            {
+              "title": "Array is not a data structure"
+            }
+          ]
+        },
+        {
+          "title": "What are the advantages of arrays?",
+          "options": [
+            {
+              "title": "Objects of mixed data types can be stored"
+            },
+            {
+              "title": "Elements in an array cannot be sorted"
+            },
+            {
+              "title": "Easier to store elements of same data type"
+            },
+            {
+              "title": "Index of first element of an array is 1"
+            }
+          ]
+        },
+        {
+          "title": "What are the disadvantages of arrays?",
+          "options": [
+            {
+              "title": "Data structure like queue or stack cannot be implemented"
+            },
+            {
+              "title": " There are chances of wastage of memory space if elements inserted in an array are lesser than the allocated size"
+            },
+            {
+              "title": "Index value of an array can be negative"
+            },
+            {
+              "title": "Elements are sequentially accessed"
+            }
+          ]
+        },
+        {
+          "title": "Elements in an array are accessed _____________",
+          "options": [
+            {
+              "title": "randomly"
+            },
+            {
+              "title": "sequentially"
+            },
+            {
+              "title": "exponentially"
+            },
+            {
+              "title": "logarithmically"
+            }
+          ]
+        },
+        {
+          "title": "Objects in a sequence that have the same type, is called",
+          "options": [
+            {
+              "title": "Arrays"
+            },
+            {
+              "title": "Operators"
+            },
+            {
+              "title": "Functions"
+            },
+            {
+              "title": "Stacks"
+            }
+          ]
+        }
+      ]
+    },
+    "4Rll-_e9-0M": {
+      "questions": [
+        {
+          "title": "Which of these best describes an array?",
+          "options": [
+            {
+              "title": "A data structure that shows a hierarchical behavior"
+            },
+            {
+              "title": "Container of objects of similar types"
+            },
+            {
+              "title": "Arrays are immutable once initialised"
+            },
+            {
+              "title": "Array is not a data structure"
+            }
+          ]
+        },
+        {
+          "title": "What are the advantages of arrays?",
+          "options": [
+            {
+              "title": "Objects of mixed data types can be stored"
+            },
+            {
+              "title": "Elements in an array cannot be sorted"
+            },
+            {
+              "title": "Easier to store elements of same data type"
+            },
+            {
+              "title": "Index of first element of an array is 1"
+            }
+          ]
+        },
+        {
+          "title": "What are the disadvantages of arrays?",
+          "options": [
+            {
+              "title": "Data structure like queue or stack cannot be implemented"
+            },
+            {
+              "title": " There are chances of wastage of memory space if elements inserted in an array are lesser than the allocated size"
+            },
+            {
+              "title": "Index value of an array can be negative"
+            },
+            {
+              "title": "Elements are sequentially accessed"
+            }
+          ]
+        },
+        {
+          "title": "Elements in an array are accessed _____________",
+          "options": [
+            {
+              "title": "randomly"
+            },
+            {
+              "title": "sequentially"
+            },
+            {
+              "title": "exponentially"
+            },
+            {
+              "title": "logarithmically"
+            }
+          ]
+        },
+        {
+          "title": "Objects in a sequence that have the same type, is called",
+          "options": [
+            {
+              "title": "Arrays"
+            },
+            {
+              "title": "Operators"
+            },
+            {
+              "title": "Functions"
+            },
+            {
+              "title": "Stacks"
+            }
+          ]
+        }
+      ]
+    },
+    "KDQXUysHLL8": {
+      "questions": [
+        {
+          "title": "Which of these best describes an array?",
+          "options": [
+            {
+              "title": "A data structure that shows a hierarchical behavior"
+            },
+            {
+              "title": "Container of objects of similar types"
+            },
+            {
+              "title": "Arrays are immutable once initialised"
+            },
+            {
+              "title": "Array is not a data structure"
+            }
+          ]
+        },
+        {
+          "title": "What are the advantages of arrays?",
+          "options": [
+            {
+              "title": "Objects of mixed data types can be stored"
+            },
+            {
+              "title": "Elements in an array cannot be sorted"
+            },
+            {
+              "title": "Easier to store elements of same data type"
+            },
+            {
+              "title": "Index of first element of an array is 1"
+            }
+          ]
+        },
+        {
+          "title": "What are the disadvantages of arrays?",
+          "options": [
+            {
+              "title": "Data structure like queue or stack cannot be implemented"
+            },
+            {
+              "title": " There are chances of wastage of memory space if elements inserted in an array are lesser than the allocated size"
+            },
+            {
+              "title": "Index value of an array can be negative"
+            },
+            {
+              "title": "Elements are sequentially accessed"
+            }
+          ]
+        },
+        {
+          "title": "Elements in an array are accessed _____________",
+          "options": [
+            {
+              "title": "randomly"
+            },
+            {
+              "title": "sequentially"
+            },
+            {
+              "title": "exponentially"
+            },
+            {
+              "title": "logarithmically"
+            }
+          ]
+        },
+        {
+          "title": "Objects in a sequence that have the same type, is called",
+          "options": [
+            {
+              "title": "Arrays"
+            },
+            {
+              "title": "Operators"
+            },
+            {
+              "title": "Functions"
+            },
+            {
+              "title": "Stacks"
+            }
+          ]
+        }
+      ]
+    },
+    "tw-qWGG8y5g": {
+      "questions": [
+        {
+          "title": "Which of these best describes an array?",
+          "options": [
+            {
+              "title": "A data structure that shows a hierarchical behavior"
+            },
+            {
+              "title": "Container of objects of similar types"
+            },
+            {
+              "title": "Arrays are immutable once initialised"
+            },
+            {
+              "title": "Array is not a data structure"
+            }
+          ]
+        },
+        {
+          "title": "What are the advantages of arrays?",
+          "options": [
+            {
+              "title": "Objects of mixed data types can be stored"
+            },
+            {
+              "title": "Elements in an array cannot be sorted"
+            },
+            {
+              "title": "Easier to store elements of same data type"
+            },
+            {
+              "title": "Index of first element of an array is 1"
+            }
+          ]
+        },
+        {
+          "title": "What are the disadvantages of arrays?",
+          "options": [
+            {
+              "title": "Data structure like queue or stack cannot be implemented"
+            },
+            {
+              "title": " There are chances of wastage of memory space if elements inserted in an array are lesser than the allocated size"
+            },
+            {
+              "title": "Index value of an array can be negative"
+            },
+            {
+              "title": "Elements are sequentially accessed"
+            }
+          ]
+        },
+        {
+          "title": "Elements in an array are accessed _____________",
+          "options": [
+            {
+              "title": "randomly"
+            },
+            {
+              "title": "sequentially"
+            },
+            {
+              "title": "exponentially"
+            },
+            {
+              "title": "logarithmically"
+            }
+          ]
+        },
+        {
+          "title": "Objects in a sequence that have the same type, is called",
+          "options": [
+            {
+              "title": "Arrays"
+            },
+            {
+              "title": "Operators"
+            },
+            {
+              "title": "Functions"
+            },
+            {
+              "title": "Stacks"
             }
           ]
         }
@@ -1277,149 +1722,563 @@
     "AT14lCXuMKI": {
       "questions": [
         {
-          "title": "How to declare JavaScript variables?",
+          "title": "Which of these best describes an array?",
           "options": [
             {
-              "title": "with var",
+              "title": "A data structure that shows a hierarchical behavior"
+            },
+            {
+              "title": "Container of objects of similar types",
               "correct": true
             },
             {
-              "title": "with let",
-              "correct": true
+              "title": "Arrays are immutable once initialised"
             },
             {
-              "title": "with const",
-              "correct": true
-            },
-            {
-              "title": "with variable"
-            },
-            {
-              "title": "with declare"
-            },
-            {
-              "title": "with new"
-            },
-            {
-              "title": "with number"
-            },
-            {
-              "title": "with string"
-            },
-            {
-              "title": "with boolean"
-            },
-            {
-              "title": "with nothing"
+              "title": "Array is not a data structure"
             }
           ]
         },
         {
-          "title": "When was JavaScript invented?",
+          "title": "What are the advantages of arrays?",
           "options": [
             {
-              "title": "September 1998"
+              "title": "Objects of mixed data types can be stored"
             },
             {
-              "title": "October 1999"
+              "title": "Elements in an array cannot be sorted"
             },
             {
-              "title": "September 1995",
+              "title": "Easier to store elements of same data type",
               "correct": true
             },
             {
-              "title": "September 1993"
-            },
-            {
-              "title": "August 1990"
-            },
-            {
-              "title": "January 1995"
-            },
-            {
-              "title": "with number"
-            },
-            {
-              "title": "December 1995"
-            },
-            {
-              "title": "March 1996"
-            },
-            {
-              "title": "January 1970"
+              "title": "Index of first element of an array is 1"
             }
           ]
         },
         {
-          "title": "Who or which company created JavaScript?",
+          "title": "What are the disadvantages of arrays?",
           "options": [
             {
-              "title": "Jordan Walke"
+              "title": "Data structure like queue or stack cannot be implemented"
             },
             {
-              "title": "Netscape",
+              "title": " There are chances of wastage of memory space if elements inserted in an array are lesser than the allocated size",
               "correct": true
+            
             },
             {
-              "title": "Jack Ma"
+              "title": "Index value of an array can be negative"
             },
             {
-              "title": "Nayok Razzaq"
-            },
-            {
-              "title": "Takla Rubel"
-            },
-            {
-              "title": "Tarzan"
-            },
-            {
-              "title": "Brendan Eich",
-              "correct": true
-            },
-            {
-              "title": "Mark Zuckerburg"
-            },
-            {
-              "title": "Bill Gates"
-            },
-            {
-              "title": "Steve Jobs"
+              "title": "Elements are sequentially accessed"
             }
           ]
         },
         {
-          "title": "What is the latest version of ECMAScript",
+          "title": "Elements in an array are accessed _____________",
           "options": [
             {
-              "title": "ES2020"
-            },
-            {
-              "title": "ES2021",
+              "title": "randomly",
               "correct": true
             },
             {
-              "title": "ES6"
+              "title": "sequentially"
             },
             {
-              "title": "ES7"
+              "title": "exponentially"
             },
             {
-              "title": "ES8"
+              "title": "logarithmically"
+            }
+          ]
+        },
+        {
+          "title": "Objects in a sequence that have the same type, is called",
+          "options": [
+            {
+              "title": "Arrays",
+              "correct": true
             },
             {
-              "title": "ES2022"
+              "title": "Operators"
             },
             {
-              "title": "ES21"
+              "title": "Functions"
             },
             {
-              "title": "ES3"
+              "title": "Stacks"
+            }
+          ]
+        }
+      ]
+    },
+    "Bnjbun-hiBk": {
+      "questions": [
+        {
+          "title": "Which of these best describes an array?",
+          "options": [
+            {
+              "title": "A data structure that shows a hierarchical behavior"
             },
             {
-              "title": "ES9"
+              "title": "Container of objects of similar types",
+              "correct": true
             },
             {
-              "title": "ES2020"
+              "title": "Arrays are immutable once initialised"
+            },
+            {
+              "title": "Array is not a data structure"
+            }
+          ]
+        },
+        {
+          "title": "What are the advantages of arrays?",
+          "options": [
+            {
+              "title": "Objects of mixed data types can be stored"
+            },
+            {
+              "title": "Elements in an array cannot be sorted"
+            },
+            {
+              "title": "Easier to store elements of same data type",
+              "correct": true
+            },
+            {
+              "title": "Index of first element of an array is 1"
+            }
+          ]
+        },
+        {
+          "title": "What are the disadvantages of arrays?",
+          "options": [
+            {
+              "title": "Data structure like queue or stack cannot be implemented"
+            },
+            {
+              "title": " There are chances of wastage of memory space if elements inserted in an array are lesser than the allocated size",
+              "correct": true
+            },
+            {
+              "title": "Index value of an array can be negative"
+            },
+            {
+              "title": "Elements are sequentially accessed"
+            }
+          ]
+        },
+        {
+          "title": "Elements in an array are accessed _____________",
+          "options": [
+            {
+              "title": "randomly",
+              "correct": true
+            },
+            {
+              "title": "sequentially"
+            },
+            {
+              "title": "exponentially"
+            },
+            {
+              "title": "logarithmically"
+            }
+          ]
+        },
+        {
+          "title": "Objects in a sequence that have the same type, is called",
+          "options": [
+            {
+              "title": "Arrays",
+              "correct": true
+            },
+            {
+              "title": "Operators"
+            },
+            {
+              "title": "Functions"
+            },
+            {
+              "title": "Stacks"
+            }
+          ]
+        }
+      ]
+    },
+    "CMbpZK_xqoc": {
+      "questions": [
+        {
+          "title": "Which of these best describes an array?",
+          "options": [
+            {
+              "title": "A data structure that shows a hierarchical behavior"
+            },
+            {
+              "title": "Container of objects of similar types",
+              "correct": true
+            },
+            {
+              "title": "Arrays are immutable once initialised"
+            },
+            {
+              "title": "Array is not a data structure"
+            }
+          ]
+        },
+        {
+          "title": "What are the advantages of arrays?",
+          "options": [
+            {
+              "title": "Objects of mixed data types can be stored"
+            },
+            {
+              "title": "Elements in an array cannot be sorted"
+            },
+            {
+              "title": "Easier to store elements of same data type",
+              "correct": true
+            },
+            {
+              "title": "Index of first element of an array is 1"
+            }
+          ]
+        },
+        {
+          "title": "What are the disadvantages of arrays?",
+          "options": [
+            {
+              "title": "Data structure like queue or stack cannot be implemented"
+            },
+            {
+              "title": " There are chances of wastage of memory space if elements inserted in an array are lesser than the allocated size",
+              "correct": true
+            },
+            {
+              "title": "Index value of an array can be negative"
+            },
+            {
+              "title": "Elements are sequentially accessed"
+            }
+          ]
+        },
+        {
+          "title": "Elements in an array are accessed _____________",
+          "options": [
+            {
+              "title": "randomly",
+              "correct": true
+            },
+            {
+              "title": "sequentially"
+            },
+            {
+              "title": "exponentially"
+            },
+            {
+              "title": "logarithmically"
+            }
+          ]
+        },
+        {
+          "title": "Objects in a sequence that have the same type, is called",
+          "options": [
+            {
+              "title": "Arrays",
+              "correct": true
+            },
+            {
+              "title": "Operators"
+            },
+            {
+              "title": "Functions"
+            },
+            {
+              "title": "Stacks"
+            }
+          ]
+        }
+      ]
+    },
+    "4Rll-_e9-0M": {
+      "questions": [
+        {
+          "title": "Which of these best describes an array?",
+          "options": [
+            {
+              "title": "A data structure that shows a hierarchical behavior"
+            },
+            {
+              "title": "Container of objects of similar types",
+              "correct": true
+            },
+            {
+              "title": "Arrays are immutable once initialised"
+            },
+            {
+              "title": "Array is not a data structure"
+            }
+          ]
+        },
+        {
+          "title": "What are the advantages of arrays?",
+          "options": [
+            {
+              "title": "Objects of mixed data types can be stored"
+            },
+            {
+              "title": "Elements in an array cannot be sorted"
+            },
+            {
+              "title": "Easier to store elements of same data type",
+              "correct": true
+            },
+            {
+              "title": "Index of first element of an array is 1"
+            }
+          ]
+        },
+        {
+          "title": "What are the disadvantages of arrays?",
+          "options": [
+            {
+              "title": "Data structure like queue or stack cannot be implemented"
+            },
+            {
+              "title": " There are chances of wastage of memory space if elements inserted in an array are lesser than the allocated size",
+              "correct": true
+            },
+            {
+              "title": "Index value of an array can be negative"
+            },
+            {
+              "title": "Elements are sequentially accessed"
+            }
+          ]
+        },
+        {
+          "title": "Elements in an array are accessed _____________",
+          "options": [
+            {
+              "title": "randomly",
+              "correct": true
+            },
+            {
+              "title": "sequentially"
+            },
+            {
+              "title": "exponentially"
+            },
+            {
+              "title": "logarithmically"
+            }
+          ]
+        },
+        {
+          "title": "Objects in a sequence that have the same type, is called",
+          "options": [
+            {
+              "title": "Arrays",
+              "correct": true
+            },
+            {
+              "title": "Operators"
+            },
+            {
+              "title": "Functions"
+            },
+            {
+              "title": "Stacks"
+            }
+          ]
+        }
+      ]
+    },
+    "KDQXUysHLL8": {
+      "questions": [
+        {
+          "title": "Which of these best describes an array?",
+          "options": [
+            {
+              "title": "A data structure that shows a hierarchical behavior"
+            },
+            {
+              "title": "Container of objects of similar types",
+              "correct": true
+            },
+            {
+              "title": "Arrays are immutable once initialised"
+            },
+            {
+              "title": "Array is not a data structure"
+            }
+          ]
+        },
+        {
+          "title": "What are the advantages of arrays?",
+          "options": [
+            {
+              "title": "Objects of mixed data types can be stored"
+            },
+            {
+              "title": "Elements in an array cannot be sorted"
+            },
+            {
+              "title": "Easier to store elements of same data type",
+              "correct": true
+            },
+            {
+              "title": "Index of first element of an array is 1"
+            }
+          ]
+        },
+        {
+          "title": "What are the disadvantages of arrays?",
+          "options": [
+            {
+              "title": "Data structure like queue or stack cannot be implemented"
+            },
+            {
+              "title": " There are chances of wastage of memory space if elements inserted in an array are lesser than the allocated size",
+              "correct": true
+            },
+            {
+              "title": "Index value of an array can be negative"
+            },
+            {
+              "title": "Elements are sequentially accessed"
+            }
+          ]
+        },
+        {
+          "title": "Elements in an array are accessed _____________",
+          "options": [
+            {
+              "title": "randomly",
+              "correct": true
+            },
+            {
+              "title": "sequentially"
+            },
+            {
+              "title": "exponentially"
+            },
+            {
+              "title": "logarithmically"
+            }
+          ]
+        },
+        {
+          "title": "Objects in a sequence that have the same type, is called",
+          "options": [
+            {
+              "title": "Arrays",
+              "correct": true
+            },
+            {
+              "title": "Operators"
+            },
+            {
+              "title": "Functions"
+            },
+            {
+              "title": "Stacks"
+            }
+          ]
+        }
+      ]
+    },
+    "tw-qWGG8y5g": {
+      "questions": [
+        {
+          "title": "Which of these best describes an array?",
+          "options": [
+            {
+              "title": "A data structure that shows a hierarchical behavior"
+            },
+            {
+              "title": "Container of objects of similar types",
+              "correct": true
+            },
+            {
+              "title": "Arrays are immutable once initialised"
+            },
+            {
+              "title": "Array is not a data structure"
+            }
+          ]
+        },
+        {
+          "title": "What are the advantages of arrays?",
+          "options": [
+            {
+              "title": "Objects of mixed data types can be stored"
+            },
+            {
+              "title": "Elements in an array cannot be sorted"
+            },
+            {
+              "title": "Easier to store elements of same data type",
+              "correct": true
+            },
+            {
+              "title": "Index of first element of an array is 1"
+            }
+          ]
+        },
+        {
+          "title": "What are the disadvantages of arrays?",
+          "options": [
+            {
+              "title": "Data structure like queue or stack cannot be implemented"
+            },
+            {
+              "title": " There are chances of wastage of memory space if elements inserted in an array are lesser than the allocated size",
+              "correct": true
+            },
+            {
+              "title": "Index value of an array can be negative"
+            },
+            {
+              "title": "Elements are sequentially accessed"
+            }
+          ]
+        },
+        {
+          "title": "Elements in an array are accessed _____________",
+          "options": [
+            {
+              "title": "randomly",
+              "correct": true
+            },
+            {
+              "title": "sequentially"
+            },
+            {
+              "title": "exponentially"
+            },
+            {
+              "title": "logarithmically"
+            }
+          ]
+        },
+        {
+          "title": "Objects in a sequence that have the same type, is called",
+          "options": [
+            {
+              "title": "Arrays",
+              "correct": true
+            },
+            {
+              "title": "Operators"
+            },
+            {
+              "title": "Functions"
+            },
+            {
+              "title": "Stacks"
             }
           ]
         }
