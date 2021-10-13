@@ -3,10 +3,11 @@ import InfiniteScroll from 'react-infinite-scroll-component'
 import { Link } from 'react-router-dom'
 import UseVideoList from '../../hooks/UseVideoList'
 import Video from './Video'
-const Videos = () => {
+const Videos = (props) => {
     
     const [page,setPage] = useState(1)
-    const {loading,error,videos,hasMore} = UseVideoList(page)
+    console.log('videos',props.type)
+    const {loading,error,videos,hasMore} = UseVideoList(page,props.type)
 
     return (
         <div>

@@ -1,7 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import classes from '../../styles/Video.module.css'
-import Button from '../Form/Button'
 
 const Video = ({title,id,noq,pathname,videoTitle}) => {
     return (
@@ -27,7 +26,7 @@ const Video = ({title,id,noq,pathname,videoTitle}) => {
                 
                
                 
-                  <a href={`https://youtube.com/watch?v=${id}`}>
+                  <a href={`https://youtube.com/watch?v=${id}`} target="_blank">
                    <button className={classes.button}>watch video</button>
                 </a>
                 

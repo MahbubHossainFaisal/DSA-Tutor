@@ -6,8 +6,8 @@ const Summary = ({score,noq}) => {
 
 
   const getKeyword = () =>{
-    if((score/(noq*5))*100 < 50){
-      return "failed"
+    if((score/(noq*5))*100 < 40){
+      return "bad"
     } else if((score/(noq*5))*100 < 75){
       return "good"
     } else if((score/(noq*5))*100 < 100){

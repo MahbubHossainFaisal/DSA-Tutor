@@ -1,6 +1,6 @@
 import { get, getDatabase, limitToFirst, orderByKey, query, ref, startAt } from 'firebase/database'
 import { useEffect, useState } from 'react'
-const UseVideoList = (page) => {
+const UseVideoList = (page,type) => {
 
     const [loading,setLoading] = useState(true)
     const [error,setError] = useState(false)
@@ -10,7 +10,8 @@ const UseVideoList = (page) => {
        //fetching data from database
         async function fetchVideos(){
             const db = getDatabase();
-            const videosRef = ref(db, "videos/array")
+            console.log(type)
+            const videosRef = ref(db, `/videos/${type}`)
             //query
             const videoQuery = query(
                 videosRef,
