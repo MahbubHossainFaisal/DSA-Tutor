@@ -9,8 +9,8 @@ const Type = ({img,type,name}) => {
             
                 <img src={img} alt={name}  />
                 <div className={classes.qmeta}>
-                    <p style={{ fontSize: '20px' , color: '#113CFC'}}>{type}</p>
-                    <p>{name}</p>
+                    <p style={{ fontSize: '25px' , color: '#297F87', fontWeight:'900'}}>{type}</p>
+                    <p style={{ fontSize: '20px', fontWeight: '700' }}>{name}</p>
                 </div>
            
         </div>

@@ -36,107 +36,107 @@
       "7": {
         "youtubeID": "dmb1i4oN5oE",
         "title": "2.1 Introduction to linked list | Need of linked list",
-        "noq": 0
+        "noq": 5
       },
       "8": {
         "youtubeID": "DWpVGpNfDmM",
         "title": "2.2 Types of linked list in data structures",
-        "noq": 0
+        "noq": 5
       },
       "9": {
         "youtubeID": "qauEA64G1Ds",
         "title": "2.3 Arrays vs Linked List | Data structures",
-        "noq": 0
+        "noq": 5
       },
       "10": {
         "youtubeID": "6wXZ_m3SbEs",
         "title": "2.4 Linked List implementation in C/C++ | creation and display | data structures",
-        "noq": 0
+        "noq": 5
       },
       "11": {
         "youtubeID": "dq3F3e9o2DM",
         "title": "2.5 Insert a node in Singly Linked List(at beginning,end,specified position)with code|data structure",
-        "noq": 0
+        "noq": 5
       },
       "12": {
         "youtubeID": "ClvYytk5Rlg",
         "title": "2.6 Delete a node from linked list (from beginning, end, specified position) | Data Structure",
-        "noq": 0
+        "noq": 5
       },
       "13": {
         "youtubeID": "SbGRuk38MvI",
         "title": "2.7 Find length of linked list- Iterative approach | data structures",
-        "noq": 0
+        "noq": 5
       },
       "14": {
         "youtubeID": "Tk_fi5l8cag",
         "title": "2.8 Reverse a linked list - Iterative method | data structure",
-        "noq": 0
+        "noq": 5
       },
       "15": {
         "youtubeID": "nquQ_fYGGA4",
         "title": "2.9 Introduction to Doubly Linked List - Data structures",
-        "noq": 0
+        "noq": 5
       },
       "16": {
         "youtubeID": "H8-IuKKiQeo",
         "title": "2.10 Implementation of Doubly Linked List - Data Structures",
-        "noq": 0
+        "noq": 5
       },
       "17": {
         "youtubeID": "v4szCPs9yEY",
         "title": "2.11 Insertion in Doubly Linked List(beginning, end, specific position) - Data Structures",
-        "noq": 0
+        "noq": 5
       },
       "18": {
         "youtubeID": "7yNUXcOcHwE",
         "title": "2.12 Deletion from doubly linked list (from beginning,end,specific position) | data structures",
-        "noq": 0
+        "noq": 5
       },
       "19": {
         "youtubeID": "_6JI9XdO8nM",
         "title": "2.13 Reverse a doubly linked list | data structures",
-        "noq": 0
+        "noq": 5
       },
       "20": {
         "youtubeID": "fmfx1C4TTxw",
         "title": "2.14 Circular linked list in data structure",
-        "noq": 0
+        "noq": 5
       },
       "21": {
         "youtubeID": "jsTybZ5qSNE",
         "title": "2.15 Implementation of Circular linked list | data structure",
-        "noq": 0
+        "noq": 5
       },
       "22": {
         "youtubeID": "ReGglEXEH08",
         "title": "2.16 Circular linked list - Insertion | data structure",
-        "noq": 0
+        "noq": 5
       },
       "23": {
         "youtubeID": "EkE6RHuMx3I",
         "title": "2.17 Circular linked list - deletion (from beginning, end, given position) | data structures",
-        "noq": 0
+        "noq": 5
       },
       "24": {
         "youtubeID": "xvAoleV706Q",
         "title": "2.18 Reverse a circular linked list | data structure",
-        "noq": 0
+        "noq": 5
       },
       "25": {
         "youtubeID": "eBCTtS_sptM",
         "title": "2.19 Doubly Circular Linked List - Creation and Display | Data Structures",
-        "noq": 0
+        "noq": 5
       },
       "26": {
         "youtubeID": "Fa958fGdgx0",
         "title": "2.20 Doubly Circular linked list - Insertion | data structure",
-        "noq": 0
+        "noq": 5
       },
       "27": {
         "youtubeID": "ElQxT6hDeNE",
         "title": "2.21 Doubly circular linked list - Deletion | data structure",
-        "noq": 0
+        "noq": 5
       }
     },
     "stack": {
@@ -853,150 +853,1876 @@
         }
       ]
     },
-    "5Xy-t8k_M4A": {
+    "dmb1i4oN5oE": {
       "questions": [
         {
-          "title": "How to declare JavaScript variables?",
+          "title": "What is the time complexity to count the number of elements in the linked list?",
           "options": [
             {
-              "title": "with var"
+              "title": "O(1)"
             },
             {
-              "title": "with let"
+              "title": "O(n)"
             },
             {
-              "title": "with const"
+              "title": "O(logn)"
             },
             {
-              "title": "with variable"
-            },
-            {
-              "title": "with declare"
-            },
-            {
-              "title": "with new"
-            },
-            {
-              "title": "with number"
-            },
-            {
-              "title": "with string"
-            },
-            {
-              "title": "with boolean"
-            },
-            {
-              "title": "with nothing"
+              "title": "None of the mentioned"
             }
           ]
         },
         {
-          "title": "When was JavaScript invented?",
+          "title": "Linked lists are not suitable to for the implementation of?",
           "options": [
             {
-              "title": "September 1998"
+              "title": "Insertion sort"
             },
             {
-              "title": "October 1999"
+              "title": "Radix sort"
             },
             {
-              "title": "September 1995"
+              "title": "Polynomial manipulation"
             },
             {
-              "title": "September 1993"
-            },
-            {
-              "title": "August 1990"
-            },
-            {
-              "title": "January 1995"
-            },
-            {
-              "title": "with number"
-            },
-            {
-              "title": "December 1995"
-            },
-            {
-              "title": "March 1996"
-            },
-            {
-              "title": "January 1970"
+              "title": "Binary search"
             }
           ]
         },
         {
-          "title": "Who or which company created JavaScript?",
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
           "options": [
             {
-              "title": "Jordan Walke"
+              "title": "log 2 n"
             },
             {
-              "title": "Netscape"
+              "title": "n/2"
             },
             {
-              "title": "Jack Ma"
+              "title": "log 2 n – 1"
             },
             {
-              "title": "Nayok Razzaq"
-            },
-            {
-              "title": "Takla Rubel"
-            },
-            {
-              "title": "Tarzan"
-            },
-            {
-              "title": "Brendan Eich"
-            },
-            {
-              "title": "Mark Zuckerburg"
-            },
-            {
-              "title": "Bill Gates"
-            },
-            {
-              "title": "Steve Jobs"
+              "title": "n"
             }
           ]
         },
         {
-          "title": "What is the latest version of ECMAScript",
+          "title": "Which of these is an application of linked lists?",
           "options": [
             {
-              "title": "ES2020"
+              "title": "To implement file systems"
             },
             {
-              "title": "ES2021"
+              "title": "For separate chaining in hash-tables"
             },
             {
-              "title": "ES6"
+              "title": "To implement non-binary trees"
             },
             {
-              "title": "ES7"
+              "title": "All of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
             },
             {
-              "title": "ES8"
+              "title": "Two pointer"
             },
             {
-              "title": "ES2022"
+              "title": "Three pointer"
             },
             {
-              "title": "ES21"
-            },
-            {
-              "title": "ES3"
-            },
-            {
-              "title": "ES9"
-            },
-            {
-              "title": "ES2020"
+              "title": " None"
             }
           ]
         }
       ]
     },
+    "DWpVGpNfDmM": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)"
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search"
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n"
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer"
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    "qauEA64G1Ds": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)"
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search"
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n"
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer"
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    "6wXZ_m3SbEs": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)"
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search"
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n"
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer"
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    "dq3F3e9o2DM": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)"
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search"
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n"
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer"
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    "ClvYytk5Rlg": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)"
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search"
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n"
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer"
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    "SbGRuk38MvI": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)"
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search"
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n"
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer"
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    "Tk_fi5l8cag": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)"
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search"
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n"
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer"
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    "nquQ_fYGGA4": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)"
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search"
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n"
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer"
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    "H8-IuKKiQeo": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)"
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search"
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n"
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer"
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    "v4szCPs9yEY": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)"
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search"
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n"
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer"
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    "7yNUXcOcHwE": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)"
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search"
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n"
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer"
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    "_6JI9XdO8nM": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)"
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search"
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n"
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer"
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    "fmfx1C4TTxw": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)"
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search"
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n"
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer"
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    "jsTybZ5qSNE": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)"
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search"
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n"
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer"
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    "ReGglEXEH08": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)"
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search"
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n"
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer"
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    "EkE6RHuMx3I": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)"
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search"
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n"
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer"
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    "xvAoleV706Q": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)"
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search"
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n"
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer"
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    "eBCTtS_sptM": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)"
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search"
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n"
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer"
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    "Fa958fGdgx0": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)"
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search"
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n"
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer"
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    "ElQxT6hDeNE": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)"
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search"
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n"
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer"
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    
     "WC-g0JtEIwM": {
       "questions": [
         {
@@ -1766,7 +3492,6 @@
             {
               "title": " There are chances of wastage of memory space if elements inserted in an array are lesser than the allocated size",
               "correct": true
-            
             },
             {
               "title": "Index value of an array can be negative"
@@ -2279,6 +4004,1980 @@
             },
             {
               "title": "Stacks"
+            }
+          ]
+        }
+      ]
+    },
+    "dmb1i4oN5oE": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)",
+              "correct": true
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer",
+              "correct": true
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    "DWpVGpNfDmM": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)",
+              "correct": true
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer",
+              "correct": true
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    "qauEA64G1Ds": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)",
+              "correct": true
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer",
+              "correct": true
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    "6wXZ_m3SbEs": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)",
+              "correct": true
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer",
+              "correct": true
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    "dq3F3e9o2DM": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)",
+              "correct": true
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer",
+              "correct": true
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    "ClvYytk5Rlg": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)",
+              "correct": true
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer",
+              "correct": true
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    "SbGRuk38MvI": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)",
+              "correct": true
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer",
+              "correct": true
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    "Tk_fi5l8cag": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)",
+              "correct": true
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer",
+              "correct": true
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    "nquQ_fYGGA4": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)",
+              "correct": true
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer",
+              "correct": true
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": "None"
+            }
+          ]
+        }
+      ]
+    },
+    "H8-IuKKiQeo": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)",
+              "correct": true
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer",
+              "correct": true
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    "v4szCPs9yEY": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)",
+              "correct": true
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer",
+              "correct": true
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    "7yNUXcOcHwE": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)",
+              "correct": true
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer",
+              "correct": true
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    "_6JI9XdO8nM": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)",
+              "correct": true
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer",
+              "correct": true
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": "None"
+            }
+          ]
+        }
+      ]
+    },
+    "fmfx1C4TTxw": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)",
+              "correct": true
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer",
+              "correct": true
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    "jsTybZ5qSNE": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)",
+              "correct": true
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer",
+              "correct": true
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    "ReGglEXEH08": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)",
+              "correct": true
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer",
+              "correct": true
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    "EkE6RHuMx3I": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)",
+              "correct": true
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer",
+              "correct": true
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    "xvAoleV706Q": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)",
+              "correct": true
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer",
+              "correct": true
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    "eBCTtS_sptM": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)",
+              "correct": true
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer",
+              "correct": true
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    "Fa958fGdgx0": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)",
+              "correct": true
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer",
+              "correct": true
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
+            }
+          ]
+        }
+      ]
+    },
+    "ElQxT6hDeNE": {
+      "questions": [
+        {
+          "title": "What is the time complexity to count the number of elements in the linked list?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)",
+              "correct": true
+            },
+            {
+              "title": "O(logn)"
+            },
+            {
+              "title": "None of the mentioned"
+            }
+          ]
+        },
+        {
+          "title": "Linked lists are not suitable to for the implementation of?",
+          "options": [
+            {
+              "title": "Insertion sort"
+            },
+            {
+              "title": "Radix sort"
+            },
+            {
+              "title": "Polynomial manipulation"
+            },
+            {
+              "title": "Binary search",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In the worst case, the number of comparisons needed to search a singly linked list of length n for a given element is",
+          "options": [
+            {
+              "title": "log 2 n"
+            },
+            {
+              "title": "n/2"
+            },
+            {
+              "title": "log 2 n – 1"
+            },
+            {
+              "title": "n",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "Which of these is an application of linked lists?",
+          "options": [
+            {
+              "title": "To implement file systems"
+            },
+            {
+              "title": "For separate chaining in hash-tables"
+            },
+            {
+              "title": "To implement non-binary trees"
+            },
+            {
+              "title": "All of the mentioned",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In circular linked list, insertion of node requires modification of?",
+          "options": [
+            {
+              "title": "One pointer"
+            },
+            {
+              "title": "Two pointer",
+              "correct": true
+            },
+            {
+              "title": "Three pointer"
+            },
+            {
+              "title": " None"
             }
           ]
         }

@@ -7,7 +7,7 @@ const Menu = () => {
         <div>
             
            { DSA.map((el) =>(<Link to={{ pathname: `/dsa/${el.url}` }}>
-                <Type img={el.img} type={el.type} name={el.name} />
+                <Type key={el.name} img={el.img} type={el.type} name={el.name} />
                 </Link>))}
             
         </div>

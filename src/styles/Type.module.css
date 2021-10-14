@@ -3,7 +3,7 @@
   width: 400px;
   height: 400px;
   background-color: #fff;
-  border: 3px solid black;
+  border: 1px solid #32502E;
   padding: 10px;
   border-radius: 4px;
   cursor: pointer;
@@ -30,7 +30,8 @@
 }
 
 .type img {
-    height: 80%;
+    border: 10px solid #406343;
+  height: 80%;
   width: 100%;
   object-fit: cover;
 }
