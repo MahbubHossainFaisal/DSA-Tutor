@@ -1,24 +1,23 @@
 import React, { useState } from 'react'
 import InfiniteScroll from 'react-infinite-scroll-component'
-import { Link } from 'react-router-dom'
 import UseVideoList from '../../hooks/UseVideoList'
 import Video from './Video'
 const Videos = (props) => {
     
     const [page,setPage] = useState(1)
-    console.log('videos',props.type)
+    //console.log('videos',props.type)
     const {loading,error,videos,hasMore} = UseVideoList(page,props.type)
-
+    console.log("videos length: ",videos.length)
     return (
         <div>
             {videos.length > 0 && 
             (<InfiniteScroll dataLength={videos.length}
-             hasMore={hasMore} loader={<h3>Loading...</h3>} next={()=>setPage(page+4)}>
+             hasMore={hasMore} loader={<h3>Loading...</h3>} next={()=> setPage(page+64)}>
             {
                 videos.map(video => 
                 video.noq > 0 ? (
                 
-                 <Video title={video.title} id={video.youtubeID} noq={video.noq} pathname={`/quiz/${video.youtubeID}`} videoTitle={video.title} />
+                 <Video key={video.youtubeID} title={video.title} id={video.youtubeID} noq={video.noq} pathname={`/quiz/${video.youtubeID}`} videoTitle={video.title} />
                  
                 ) : (
                  <Video key={video.youtubeID} title={video.title} id={video.youtubeID} noq={video.noq} />

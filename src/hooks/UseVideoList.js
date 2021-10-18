@@ -10,14 +10,14 @@ const UseVideoList = (page,type) => {
        //fetching data from database
         async function fetchVideos(){
             const db = getDatabase();
-            console.log(type)
+            //console.log(type)
             const videosRef = ref(db, `/videos/${type}`)
             //query
             const videoQuery = query(
                 videosRef,
                 orderByKey(),
                 startAt(""+page),
-                limitToFirst(8)
+                limitToFirst(64)
 
             )
 
@@ -31,7 +31,9 @@ const UseVideoList = (page,type) => {
            if(snapshot.exists()){
             setVideos((prevVideos) =>{
                 //converting objects to array
-                return [...prevVideos, ...Object.values(snapshot.val())]
+                return [...prevVideos,...Object.values(snapshot.val())]
+               
+
             } )
            }else{
                 //
@@ -49,7 +51,7 @@ const UseVideoList = (page,type) => {
        setTimeout(()=>{
             fetchVideos()
        },2000)
-    }, [page])
+    }, [page,type])
 
     return{
         loading,
